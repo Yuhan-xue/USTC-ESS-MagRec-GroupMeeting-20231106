@@ -1,0 +1,20 @@
+{
+  "original_source_sha256": {
+    "magviz.py": "4d83817243ee6da0cf9d2224c542ddf2c38d483923b260fb7b079898807be1d2",
+    "download.py": "4e0926db1419a48e48b1ce9537404ef915f6dcf02d95abfe392ba07ec6a67c14",
+    "analysis.py": "e032f343cea2ce6eb5e6ec645bbc1fff1f3062182e95a882a7074b4be46b69d1",
+    "snapshots.py": "320eb2d46ea7233843f47dc37ef1d735fb280018dfb9d0831e468f89b2197796",
+    "anatomy.py": "d691275751bd25e28ae7ef8d83bef2bb9937639431815d95db2019060fa3bc6d",
+    "make_movies.py": "388134788dbcaf0d3fe6b38ef73df8a17e0200e8545339a101144340c2ce0d75",
+    "keogram_eq.py": "1828ad523c180f7f08086ee70f2ce5e098672b6ecc6de8aa66ac4911b5013ff5",
+    "probes.py": "2d6fce0abf3bf6837715d1bafc20970d5699699a538332d67d2d0dd6bafbbb6b",
+    "repro_cache.py": "5e5a151d9a46e37d265c7ccada48dfe29c6b982c04c8f0b8d3f2960175e0b136",
+    "reproduce.py": "fbff1ebe61b3b78856806e10e116ba94f34d85ec40e56d9709278aa19b7b4ca4",
+    "figure_diagnostics.py": "cf3c8406f7ccc1a53820427f301cf52c79c898acf3049a35999b0a1d3627a693",
+    "recon_redo.py": "3d01527b575123a35b63b5cc69e6bc5567da2bc6df56a18489b781226127600c",
+    "recon_schematic.py": "5fbcf1a98bc5a161ccd3f44c9b16d53c02283af6b07a42625cff0f4dc2e250bb",
+    "recon_slide_figures.py": "bfa1fa7c3ac62b238274818277573aa7eb62a8947baf5be9e87f8582a56ceae5",
+    "location_insets.py": "81d51a1e33443f497da4b7ef32584d05f8a269c56387b64144086f796685e69c"
+  },
+  "note": "Original workspace scripts before the documented portability edits."
+}

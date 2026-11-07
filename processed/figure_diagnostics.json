@@ -1,0 +1,442 @@
+{
+  "scope": "Local slices and caches; no simulation rerun; all times in code units.",
+  "snapshots": {
+    "eq_0": {
+      "frame": 1,
+      "actual_time": 0.009999999776482582,
+      "subsolar_Bz_sign_MP": 16.000000000000867,
+      "subsolar_density_BS": null,
+      "tail_Bz_zero_candidate": -15.799999999999585,
+      "tail_central_Vx_p01_p99": [
+        -422.02340545654295,
+        301.6551551818851
+      ]
+    },
+    "eq_8": {
+      "frame": 33,
+      "actual_time": 8.010087966918945,
+      "subsolar_Bz_sign_MP": 16.500000000000874,
+      "subsolar_density_BS": 18.000000000000895,
+      "tail_Bz_zero_candidate": -19.899999999999643,
+      "tail_central_Vx_p01_p99": [
+        -408.18473052978516,
+        63.862970771789556
+      ]
+    },
+    "eq_16": {
+      "frame": 65,
+      "actual_time": 16.010271072387695,
+      "subsolar_Bz_sign_MP": 13.700000000000834,
+      "subsolar_density_BS": 16.000000000000867,
+      "tail_Bz_zero_candidate": -25.29999999999972,
+      "tail_central_Vx_p01_p99": [
+        -391.60864318847655,
+        108.56530967712402
+      ]
+    },
+    "eq_25": {
+      "frame": 101,
+      "actual_time": 25.01047706604004,
+      "subsolar_Bz_sign_MP": 11.3000000000008,
+      "subsolar_density_BS": 12.800000000000821,
+      "tail_Bz_zero_candidate": -30.699999999999797,
+      "tail_central_Vx_p01_p99": [
+        -457.07778198242187,
+        12.465117139816286
+      ]
+    },
+    "eq_50": {
+      "frame": 201,
+      "actual_time": 50.00761413574219,
+      "subsolar_Bz_sign_MP": 11.800000000000807,
+      "subsolar_density_BS": 14.200000000000841,
+      "tail_Bz_zero_candidate": -28.79999999999977,
+      "tail_central_Vx_p01_p99": [
+        -174.24465423583985,
+        165.404560546875
+      ]
+    },
+    "eq_80": {
+      "frame": 321,
+      "actual_time": 80.00868225097656,
+      "subsolar_Bz_sign_MP": 11.800000000000807,
+      "subsolar_density_BS": 14.300000000000843,
+      "tail_Bz_zero_candidate": -21.999999999999673,
+      "tail_central_Vx_p01_p99": [
+        -450.24862396240235,
+        337.54367095947265
+      ]
+    },
+    "eq_85": {
+      "frame": 341,
+      "actual_time": 85.00975036621094,
+      "subsolar_Bz_sign_MP": 11.800000000000807,
+      "subsolar_density_BS": 14.200000000000841,
+      "tail_Bz_zero_candidate": -25.799999999999727,
+      "tail_central_Vx_p01_p99": [
+        -573.8056530761719,
+        804.4613562011718
+      ]
+    },
+    "eq_110": {
+      "frame": 441,
+      "actual_time": 110.01509094238281,
+      "subsolar_Bz_sign_MP": 11.500000000000803,
+      "subsolar_density_BS": 14.300000000000843,
+      "tail_Bz_zero_candidate": -17.799999999999613,
+      "tail_central_Vx_p01_p99": [
+        -405.45790435791014,
+        284.589794921875
+      ]
+    },
+    "eq_120": {
+      "frame": 481,
+      "actual_time": 120.01722717285156,
+      "subsolar_Bz_sign_MP": 11.900000000000809,
+      "subsolar_density_BS": 14.400000000000844,
+      "tail_Bz_zero_candidate": -17.899999999999615,
+      "tail_central_Vx_p01_p99": [
+        -359.29633392333983,
+        479.3634005737305
+      ]
+    },
+    "eq_125": {
+      "frame": 501,
+      "actual_time": 125.01829528808594,
+      "subsolar_Bz_sign_MP": 12.100000000000811,
+      "subsolar_density_BS": 14.400000000000844,
+      "tail_Bz_zero_candidate": -24.69999999999971,
+      "tail_central_Vx_p01_p99": [
+        -898.3910107421875,
+        426.80217224121094
+      ]
+    },
+    "eq_150": {
+      "frame": 601,
+      "actual_time": 150.0068359375,
+      "subsolar_Bz_sign_MP": 11.400000000000801,
+      "subsolar_density_BS": 14.10000000000084,
+      "tail_Bz_zero_candidate": -30.399999999999793,
+      "tail_central_Vx_p01_p99": [
+        -832.1423986816407,
+        656.9275006103516
+      ]
+    },
+    "eq_160": {
+      "frame": 641,
+      "actual_time": 160.0013427734375,
+      "subsolar_Bz_sign_MP": 11.600000000000804,
+      "subsolar_density_BS": 14.10000000000084,
+      "tail_Bz_zero_candidate": -22.299999999999677,
+      "tail_central_Vx_p01_p99": [
+        -677.35482421875,
+        401.046708984375
+      ]
+    },
+    "eq_170": {
+      "frame": 681,
+      "actual_time": 169.995849609375,
+      "subsolar_Bz_sign_MP": 11.500000000000803,
+      "subsolar_density_BS": 14.10000000000084,
+      "tail_Bz_zero_candidate": -27.099999999999746,
+      "tail_central_Vx_p01_p99": [
+        -562.0509143066406,
+        451.8156707763672
+      ]
+    },
+    "eq_180": {
+      "frame": 721,
+      "actual_time": 179.9903564453125,
+      "subsolar_Bz_sign_MP": 11.400000000000801,
+      "subsolar_density_BS": 14.000000000000838,
+      "tail_Bz_zero_candidate": -23.9999999999997,
+      "tail_central_Vx_p01_p99": [
+        -607.0054620361328,
+        422.7464013671875
+      ]
+    },
+    "mer_0": {
+      "frame": 1,
+      "actual_time": 0.009999999776482582,
+      "subsolar_Bz_sign_MP": 16.000000000000867,
+      "subsolar_density_BS": null,
+      "tail_Bz_zero_candidate": -15.799999999999585,
+      "tail_central_Vx_p01_p99": [
+        -422.14165130615237,
+        302.0521771240238
+      ],
+      "lobe_inward_Uz_kms": 52.0763153809309,
+      "lobe_inward_ExBz_kms": 0.045349455945463434
+    },
+    "mer_8": {
+      "frame": 33,
+      "actual_time": 8.010087966918945,
+      "subsolar_Bz_sign_MP": 16.500000000000874,
+      "subsolar_density_BS": 18.000000000000895,
+      "tail_Bz_zero_candidate": -19.999999999999645,
+      "tail_central_Vx_p01_p99": [
+        -408.97897369384765,
+        60.295886535644534
+      ],
+      "lobe_inward_Uz_kms": 95.65194679307052,
+      "lobe_inward_ExBz_kms": 87.02682867673691
+    },
+    "mer_16": {
+      "frame": 65,
+      "actual_time": 16.010271072387695,
+      "subsolar_Bz_sign_MP": 13.700000000000834,
+      "subsolar_density_BS": 16.000000000000867,
+      "tail_Bz_zero_candidate": -25.29999999999972,
+      "tail_central_Vx_p01_p99": [
+        -392.2525305175781,
+        113.64486221313477
+      ],
+      "lobe_inward_Uz_kms": 22.131708934597555,
+      "lobe_inward_ExBz_kms": -48.00291819885824
+    },
+    "mer_25": {
+      "frame": 101,
+      "actual_time": 25.01047706604004,
+      "subsolar_Bz_sign_MP": 11.3000000000008,
+      "subsolar_density_BS": 12.800000000000821,
+      "tail_Bz_zero_candidate": -30.699999999999797,
+      "tail_central_Vx_p01_p99": [
+        -456.7453091430664,
+        12.942288074493415
+      ],
+      "lobe_inward_Uz_kms": -13.342935478349682,
+      "lobe_inward_ExBz_kms": -49.07210707819322
+    },
+    "mer_50": {
+      "frame": 201,
+      "actual_time": 50.00761413574219,
+      "subsolar_Bz_sign_MP": 11.700000000000806,
+      "subsolar_density_BS": 14.200000000000841,
+      "tail_Bz_zero_candidate": -29.899999999999785,
+      "tail_central_Vx_p01_p99": [
+        -169.5211866760254,
+        177.96386169433595
+      ],
+      "lobe_inward_Uz_kms": 117.92032800788701,
+      "lobe_inward_ExBz_kms": 101.94168795347214
+    },
+    "mer_80": {
+      "frame": 321,
+      "actual_time": 80.00868225097656,
+      "subsolar_Bz_sign_MP": 11.800000000000807,
+      "subsolar_density_BS": 14.300000000000843,
+      "tail_Bz_zero_candidate": -21.89999999999967,
+      "tail_central_Vx_p01_p99": [
+        -387.47572937011716,
+        353.50486236572266
+      ],
+      "lobe_inward_Uz_kms": 4.843317697964383,
+      "lobe_inward_ExBz_kms": 31.896869302699344
+    },
+    "mer_90": {
+      "frame": 361,
+      "actual_time": 90.01081848144531,
+      "subsolar_Bz_sign_MP": 11.600000000000804,
+      "subsolar_density_BS": 14.200000000000841,
+      "tail_Bz_zero_candidate": -23.399999999999693,
+      "tail_central_Vx_p01_p99": [
+        -687.1954901123047,
+        995.6889184570313
+      ],
+      "lobe_inward_Uz_kms": 3.22012033852388,
+      "lobe_inward_ExBz_kms": 47.60676403337682
+    },
+    "mer_110": {
+      "frame": 441,
+      "actual_time": 110.01509094238281,
+      "subsolar_Bz_sign_MP": 11.500000000000803,
+      "subsolar_density_BS": 14.300000000000843,
+      "tail_Bz_zero_candidate": -17.799999999999613,
+      "tail_central_Vx_p01_p99": [
+        -359.0365774536133,
+        282.8263442993164
+      ],
+      "lobe_inward_Uz_kms": 0.05037567301220887,
+      "lobe_inward_ExBz_kms": -2.2422712366349877
+    },
+    "mer_125": {
+      "frame": 501,
+      "actual_time": 125.01829528808594,
+      "subsolar_Bz_sign_MP": 12.200000000000813,
+      "subsolar_density_BS": 14.400000000000844,
+      "tail_Bz_zero_candidate": -24.69999999999971,
+      "tail_central_Vx_p01_p99": [
+        -892.842543334961,
+        321.6974722290039
+      ],
+      "lobe_inward_Uz_kms": 0.43285167462252616,
+      "lobe_inward_ExBz_kms": 83.17538458362222
+    },
+    "mer_150": {
+      "frame": 601,
+      "actual_time": 150.0068359375,
+      "subsolar_Bz_sign_MP": 11.400000000000801,
+      "subsolar_density_BS": 14.10000000000084,
+      "tail_Bz_zero_candidate": -30.599999999999795,
+      "tail_central_Vx_p01_p99": [
+        -847.2740380859375,
+        525.1758569335938
+      ],
+      "lobe_inward_Uz_kms": 124.7697414625663,
+      "lobe_inward_ExBz_kms": 116.920692923069
+    },
+    "mer_170": {
+      "frame": 681,
+      "actual_time": 169.995849609375,
+      "subsolar_Bz_sign_MP": 11.500000000000803,
+      "subsolar_density_BS": 14.10000000000084,
+      "tail_Bz_zero_candidate": -27.099999999999746,
+      "tail_central_Vx_p01_p99": [
+        -528.8167681884765,
+        439.05626159667975
+      ],
+      "lobe_inward_Uz_kms": 68.93213179993386,
+      "lobe_inward_ExBz_kms": 79.3163642692566
+    }
+  },
+  "BS_threshold_scan": {
+    "1.5": {
+      "n": 179,
+      "mean": 14.278770949721514,
+      "std": 0.14721491925810806,
+      "median": 14.300000000000843,
+      "p10_p90": [
+        14.10000000000084,
+        14.500000000000846
+      ]
+    },
+    "2.0": {
+      "n": 179,
+      "mean": 14.195530726257827,
+      "std": 0.14639856405952567,
+      "median": 14.200000000000841,
+      "p10_p90": [
+        14.000000000000838,
+        14.400000000000844
+      ]
+    },
+    "2.5": {
+      "n": 179,
+      "mean": 14.145810055866763,
+      "std": 0.14616814267274425,
+      "median": 14.10000000000084,
+      "p10_p90": [
+        14.000000000000838,
+        14.400000000000844
+      ]
+    },
+    "mp": {
+      "n": 179,
+      "mean": 11.632960893855552,
+      "std": 0.22040504519082843,
+      "median": 11.500000000000803,
+      "p10_p90": [
+        11.500000000000803,
+        12.100000000000811
+      ]
+    }
+  },
+  "momentum_flux": {
+    "upstream": {
+      "Pi_xx_ion_plus_magnetic_nPa": 1.3133548498153687,
+      "scalar_proxy_nPa": 1.3133965730667114
+    },
+    "sheath": {
+      "Pi_xx_ion_plus_magnetic_nPa": 1.2507344484329224,
+      "scalar_proxy_nPa": 1.1600559949874878
+    },
+    "inside_MP": {
+      "Pi_xx_ion_plus_magnetic_nPa": 1.4353253841400146,
+      "scalar_proxy_nPa": 1.423138976097107
+    }
+  },
+  "shock_lab_frame_mass_flux_ratio": {
+    "n": 179,
+    "mean": 0.7710705462780745,
+    "std": 0.2482037540182553,
+    "median": 0.7499276399612427,
+    "p10_p90": [
+      0.5120026111602783,
+      1.1052770376205445
+    ]
+  },
+  "DF_window_audit": {
+    "all_records": 14,
+    "records_t_ge_100": 6,
+    "pre_actual_offsets": [
+      -2.999997138977051,
+      -2.499997615814209,
+      -1.9999980926513672,
+      -1.4999985694885254,
+      -0.9999990463256836
+    ],
+    "post_jump_actual_offsets": [
+      0.9999990463256836,
+      1.4999985694885254,
+      1.9999980926513672,
+      2.499997615814209
+    ],
+    "minimum_separation_code_units": 6.0
+  },
+  "DF_SEA_groups": {
+    "40": {
+      "n_records": 14,
+      "mean_dBz_post_nT": 1.8558483123779297,
+      "median_record_density_ratio": 0.8234853744506836,
+      "mean_record_peak_Vx_kms": 559.3884887695312,
+      "median_record_temperature_ratio": 1.473487138748169
+    },
+    "100": {
+      "n_records": 6,
+      "mean_dBz_post_nT": 2.245471239089966,
+      "median_record_density_ratio": 1.0253340005874634,
+      "mean_record_peak_Vx_kms": 569.9453735351562,
+      "median_record_temperature_ratio": 1.5261259078979492
+    }
+  },
+  "FTE_threshold_scan": {
+    "mpN20": {
+      "2": 8,
+      "3": 5,
+      "5": 1,
+      "7": 0
+    },
+    "mpN30": {
+      "2": 1,
+      "3": 0,
+      "5": 0,
+      "7": 0
+    },
+    "mpS20": {
+      "2": 5,
+      "3": 3,
+      "5": 0,
+      "7": 0
+    },
+    "mpS30": {
+      "2": 0,
+      "3": 0,
+      "5": 0,
+      "7": 0
+    }
+  },
+  "B0_estimator_samples_nT": [
+    40569.7092876754,
+    41531.80008156206,
+    42986.63894840859,
+    38269.95964689628,
+    39764.57145136828,
+    41614.18366936199
+  ],
+  "units": {
+    "u_L_over_u_V_seconds": 15.6850430683698,
+    "u_t_seconds": 15.6850430683698,
+    "physical_reference_Omega_ci_per_second": 0.3831161066602894,
+    "Omega_ci_times_u_t": 6.009192633152797
+  }
+}

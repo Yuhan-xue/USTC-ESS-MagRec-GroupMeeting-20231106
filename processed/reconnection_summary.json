@@ -1,0 +1,73 @@
+{
+  "frames": 90,
+  "classes": {
+    "clean": {
+      "n": 28,
+      "full_quadrupole": 21,
+      "frac_full": 0.75,
+      "By_mean": {
+        "EN": 0.6834874150476286,
+        "ES": -0.6984833989824567,
+        "TN": -0.34690023792375413,
+        "TS": 0.38535038018432843
+      },
+      "Ey_median": 1.4242920279502869,
+      "vjet_e_median": 531.3360290527344,
+      "vjet_t_median": -510.1853332519531,
+      "xline_median": -27.714367354754113
+    },
+    "inactive": {
+      "n": 53,
+      "full_quadrupole": 4,
+      "frac_full": 0.07547169811320754,
+      "By_mean": {
+        "EN": 1.1055925366872887,
+        "ES": -1.1111022311983243,
+        "TN": 1.08979141838708,
+        "TS": -1.0178500146798368
+      },
+      "Ey_median": 0.3501061499118805,
+      "vjet_e_median": 418.92120361328125,
+      "vjet_t_median": -39.11800003051758,
+      "xline_median": -23.534966251253778
+    },
+    "other": {
+      "n": 9,
+      "full_quadrupole": 2,
+      "frac_full": 0.2222222222222222,
+      "By_mean": {
+        "EN": 0.8449900845686594,
+        "ES": -0.7101454685131708,
+        "TN": 0.4225000606642829,
+        "TS": -0.2141805924475193
+      },
+      "Ey_median": 0.8462323546409607,
+      "vjet_e_median": 495.9440002441406,
+      "vjet_t_median": -422.5470275878906,
+      "xline_median": -25.15708170160623
+    },
+    "all": {
+      "n": 90,
+      "full_quadrupole": 27,
+      "frac_full": 0.3,
+      "By_mean": {
+        "EN": 0.9482106980764203,
+        "ES": -0.9426362515737613,
+        "TN": 0.5760915450958742,
+        "TS": -0.5009318384988647
+      },
+      "Ey_median": 0.8484284281730652,
+      "vjet_e_median": 450.2651062011719,
+      "vjet_t_median": -227.02223205566406,
+      "xline_median": -24.755515601671945
+    }
+  },
+  "xline_all": {
+    "median": -24.755515601671945,
+    "p10": -29.549710062350858,
+    "p90": -20.497910368826357
+  },
+  "quadrupole_amp_clean_nT": 0.528555358034542,
+  "scope": "Correlated candidate time frames, not independent events.",
+  "excluded": "Legacy outflow-normalized R and exploratory scaled Hall electric-field checks are intentionally omitted; neither is a validated standard rate."
+}
